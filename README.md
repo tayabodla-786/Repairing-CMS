@@ -52,8 +52,5 @@ Connects customers, technicians, and admins with secure booking, job management,
 
 ## 🚀 Live Links
 
-- **Website (Customer Portal)**: https://repairing-website.vercel.app  
-- **Admin / Technician Dashboard**: https://repairing-admin.vercel.app  
-- **Backend API**: https://repairing-backend.vercel.app  
-
-## 📂 Folder Structure
+- **Website (Customer Portal)**: https://repairing-app-cms-4oyk.vercel.app/ 
+- **Admin / Technician Dashboard**: https://repairing-app-cms-frre.vercel.app/
